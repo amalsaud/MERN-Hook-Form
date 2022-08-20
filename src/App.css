@@ -1,0 +1,37 @@
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  background-color: #eaf6ff;
+  border: 5px solid #0f80be;
+  padding: 3%;
+  margin-top: 3%;
+  width: 40%;
+  border-radius: 5px;
+}
+
+.data h1{
+  color: #008287;
+}
+
+.form input {
+  width: 50%;
+  margin-bottom: 5%;
+  border-radius: 5px;
+}
+
+.form-text {
+  width: 50%;
+}
+
+.form label {
+  color: #008287;
+  font-size: 15px;
+  font-weight: bold;
+  display: block;
+}
